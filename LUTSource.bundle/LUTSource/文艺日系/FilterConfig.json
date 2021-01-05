@@ -1,0 +1,239 @@
+[
+ {
+ "filterName" : "FairyTale",
+ "ImageName" : " FairyTale.jpeg"
+ },
+ {
+ "filterName" : "Age",
+ "ImageName" : "Age.jpeg"
+ },
+ {
+ "filterName" : "Age-2",
+ "ImageName" : "Age2.jpeg"
+ },
+ {
+ "filterName" : "Bliss",
+ "ImageName" : "Bliss.jpeg"
+ },
+ {
+ "filterName" : "Burned",
+ "ImageName" : "Burned.jpeg"
+ },
+ {
+ "filterName" : "Cafe",
+ "ImageName" : "Cafe.jpeg"
+ },
+ {
+ "filterName" : "CharCoal",
+ "ImageName" : "CharCoal.jpeg"
+ },
+ {
+ "filterName" : "Desaturated1",
+ "ImageName" : "Desaturated1.jpeg"
+ },
+ {
+ "filterName" : "Desaturated2",
+ "ImageName" : "Desaturated2.jpeg"
+ },
+ {
+ "filterName" : "Desaturated3",
+ "ImageName" : "Desaturated3.jpeg"
+ },
+ {
+ "filterName" : "Discolored",
+ "ImageName" : "Discolored.jpeg"
+ },
+ {
+ "filterName" : "Dream",
+ "ImageName" : "Dream.jpeg"
+ },
+ {
+ "filterName" : "Exposure",
+ "ImageName" : "Exposure.jpeg"
+ },
+ {
+ "filterName" : "Farm",
+ "ImageName" : "Farm.jpeg"
+ },
+ {
+ "filterName" : "Flat",
+ "ImageName" : "Flat.jpeg"
+ },
+ {
+ "filterName" : "Flora",
+ "ImageName" : "Flora.jpeg"
+ },
+ {
+ "filterName" : "Forest",
+ "ImageName" : "Forest.jpeg"
+ },
+ {
+ "filterName" : "Fresh",
+ "ImageName" : "Fresh.jpeg"
+ },
+ {
+ "filterName" : "Fuji3513DI",
+ "ImageName" : "Fuji3513DI.jpeg"
+ },
+ {
+ "filterName" : "Garden",
+ "ImageName" : "Garden.jpeg"
+ },
+ {
+ "filterName" : "Haz1",
+ "ImageName" : "Haz1.jpeg"
+ },
+ {
+ "filterName" : "Honey",
+ "ImageName" : "Honey.jpeg"
+ },
+ {
+ "filterName" : "Instant",
+ "ImageName" : "Instant.jpeg"
+ },
+ {
+ "filterName" : "Kodak2383",
+ "ImageName" : "Kodak2383.jpeg"
+ },
+ {
+ "filterName" : "Lavish",
+ "ImageName" : "Lavish.jpeg"
+ },
+ {
+ "filterName" : "Magic",
+ "ImageName" : "Magic.jpeg"
+ },
+ {
+ "filterName" : "Memory",
+ "ImageName" : "Memory.jpeg"
+ },
+ {
+ "filterName" : "Milk",
+ "ImageName" : "Milk.jpeg"
+ },
+ {
+ "filterName" : "Mohogany",
+ "ImageName" : "Mohogany.jpeg"
+ },
+ {
+ "filterName" : "Morning",
+ "ImageName" : "Morning.jpeg"
+ },
+ {
+ "filterName" : "MorningJog",
+ "ImageName" : "MorningJog.jpeg"
+ },
+ {
+ "filterName" : "Nature",
+ "ImageName" : "Nature.jpeg"
+ },
+ {
+ "filterName" : "Night",
+ "ImageName" : "Night.jpeg"
+ },
+ {
+ "filterName" : "Oceanside",
+ "ImageName" : "Oceanside.jpeg"
+ },
+ {
+ "filterName" : "Oz",
+ "ImageName" : "Oz.jpeg"
+ },
+ {
+ "filterName" : "Poolside",
+ "ImageName" : "Poolside.jpeg"
+ },
+ {
+ "filterName" : "Processed1",
+ "ImageName" : "Processed1.jpeg"
+ },
+ {
+ "filterName" : "Processed2",
+ "ImageName" : "Processed2.jpeg"
+ },
+ {
+ "filterName" : "RedBurn",
+ "ImageName" : "RedBurn.jpeg"
+ },
+ {
+ "filterName" : "Refreshed",
+ "ImageName" : "Refreshed.jpeg"
+ },
+ {
+ "filterName" : "Regal",
+ "ImageName" : "Regal.jpeg"
+ },
+ {
+ "filterName" : "Relax",
+ "ImageName" : "Relax.jpeg"
+ },
+ {
+ "filterName" : "Retro",
+ "ImageName" : "Retro.jpeg"
+ },
+ {
+ "filterName" : "RiverWalk",
+ "ImageName" : "RiverWalk.jpeg"
+ },
+ {
+ "filterName" : "Road",
+ "ImageName" : "Road.jpeg"
+ },
+ {
+ "filterName" : "Saturated",
+ "ImageName" : "Saturated.jpeg"
+ },
+ {
+ "filterName" : "Silent",
+ "ImageName" : "Silent.jpeg"
+ },
+ {
+ "filterName" : "Spring",
+ "ImageName" : "Spring.jpeg"
+ },
+ {
+ "filterName" : "Subtle",
+ "ImageName" : "Subtle.jpeg"
+ },
+ {
+ "filterName" : "SubtleCool",
+ "ImageName" : "SubtleCool.jpeg"
+ },
+ {
+ "filterName" : "SunFaded",
+ "ImageName" : "SunFaded.jpeg"
+ },
+ {
+ "filterName" : "Sunny",
+ "ImageName" : "Sunny.jpeg"
+ },
+ {
+ "filterName" : "Sunset",
+ "ImageName" : "Sunset.jpeg"
+ },
+ {
+ "filterName" : "Umber",
+ "ImageName" : "Umber.jpeg"
+ },
+ {
+ "filterName" : "Vibrant",
+ "ImageName" : "Vibrant.jpeg"
+ },
+ {
+ "filterName" : "Warmth",
+ "ImageName" : "Warmth.jpeg"
+ },
+ {
+ "filterName" : "Washed",
+ "ImageName" : "Washed.jpeg"
+ },
+ {
+ "filterName" : "Winter",
+ "ImageName" : "Winter.jpeg"
+ },
+ {
+ "filterName" : "Yellow",
+ "ImageName" : "Yellow.jpeg"
+ }
+ 
+]

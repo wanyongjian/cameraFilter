@@ -1,0 +1,43 @@
+//
+//  Coco.pch
+//  FilterCamera
+//
+//  Created by wanyongjian on 2018/5/28.
+//  Copyright © 2018年 wan. All rights reserved.
+//
+
+#ifndef Coco_pch
+#define Coco_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <GPUImage.h>
+#import <ReactiveObjC.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+#import "GPUCommonLUTFilter.h"
+#import "Macro.h"
+#import "masonry.h"
+//#import "TKImageView.h"
+#import "UIImage+Rotate.h"
+#import "DeviceOrientation.h"
+#import "AppDelegate.h"
+#import "UIImage+Clip.h"
+#import "GLBBaseViewController.h"
+#import "UIImage+compress.h"
+#import "UIImage+Resize.h"
+#import "MBProgressHUD.h"
+#import "FilterModel.h"
+#import "PHAsset+Latest.h"
+#import "TZImagePickerController.h"
+#import "AFNetworking.h"
+#import "FontTool.h"
+#import "YQInAppPurchaseTool.h"
+#import "SVProgressHUD.h"
+#import "IAPManager.h"
+#import "ShowHud.h"
+#import "SDCycleScrollView.h"
+#import <GoogleMobileAds/GoogleMobileAds.h>
+#import "BannerManager.h"
+#import "ZLPhotoActionSheet.h"
+#import "COJigSawTool.h"
+#endif /* Coco_pch */

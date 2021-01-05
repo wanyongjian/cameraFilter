@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="des11.png" translatesAutoresizingMaskIntoConstraints="NO" id="hCV-uf-d93">
+                                <rect key="frame" x="57.5" y="318" width="260" height="31"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="hCV-uf-d93" secondAttribute="height" multiplier="752:90" id="0u8-au-Jit"/>
+                                    <constraint firstAttribute="width" constant="260" id="C5y-Vv-MJU"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="des22.png" highlightedImage="desLabelSubtitle.png" translatesAutoresizingMaskIntoConstraints="NO" id="hwk-Zc-zes">
+                                <rect key="frame" x="147.5" y="628" width="80" height="29"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="80" id="dBu-ff-bOr"/>
+                                    <constraint firstAttribute="width" secondItem="hwk-Zc-zes" secondAttribute="height" multiplier="245:90" id="z1X-B5-nGR"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="Lr8-Ze-iEH">
+                                <rect key="frame" x="119" y="164.5" width="136" height="136"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="Lr8-Ze-iEH" secondAttribute="height" multiplier="136:136" id="Kwf-zX-Bim"/>
+                                    <constraint firstAttribute="width" constant="136" id="qcr-5y-efW"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="hCV-uf-d93" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="0Ro-lv-oVO"/>
+                            <constraint firstItem="hCV-uf-d93" firstAttribute="top" secondItem="Lr8-Ze-iEH" secondAttribute="bottom" constant="17.5" id="6aN-JE-X4f"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="hwk-Zc-zes" secondAttribute="bottom" constant="10" id="WWh-oy-x5H"/>
+                            <constraint firstItem="Lr8-Ze-iEH" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="fel-RC-lQ6"/>
+                            <constraint firstItem="hwk-Zc-zes" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="p1C-Ny-9Nx"/>
+                            <constraint firstItem="hCV-uf-d93" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="slQ-QP-boy"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52" y="374.66266866566718"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="des11.png" width="752" height="90"/>
+        <image name="des22.png" width="345" height="90"/>
+        <image name="desLabelSubtitle.png" width="345" height="90"/>
+        <image name="logo.png" width="300" height="300"/>
+    </resources>
+</document>

@@ -1,0 +1,52 @@
+[
+ {
+ "filterName" : "原图",
+ "vc" : "GPUImageFilter",
+ "filterImgPath":"原图.png"
+ },
+ {
+ "filterName" : "Nash",
+ "vc" : "FWNashvilleFilter",
+ "filterImgPath":"nash.png"
+ },
+ {
+ "filterName" : "Wander",
+ "vc" : "FWWaldenFilter",
+ "filterImgPath":"wander.png"
+ },
+ {
+ "filterName" : "Everlasting",
+ "vc" : "FWRiseFilter",
+ "filterImgPath":"everlasting.png"
+ },
+ {
+ "filterName" : "Sandy",
+ "vc" : "FWValenciaFilter",
+ "filterImgPath":"sandy.png"
+ },
+ {
+ "filterName" : "Fall",
+ "vc" : "FWAmaroFilter",
+ "filterImgPath":"fall.png"
+ },
+ {
+ "filterName" : "Anson",
+ "vc" : "FWBrannanFilter",
+ "filterImgPath":"anson.png"
+ },
+ {
+ "filterName" : "Hola",
+ "vc" : "FWLomofiFilter",
+ "filterImgPath":"hola.png"
+ },
+ {
+ "filterName" : "Misaki",
+ "vc" : "FWSierraFilter",
+ "filterImgPath":"misaki.png"
+ },
+ {
+ "filterName" : "Rigel",
+ "vc" : "FWXproIIFilter",
+ "filterImgPath":"rigel.png"
+ }
+]
